@@ -1,7 +1,7 @@
 #ifndef _COMMON_H_
 #define _COMMON_H_
 
-#define VERSION "V1.0.2"
+#define VERSION "V1.0.3"
 #define SWVERSION "V1.0.0.1"
 
 #define MAX_BUF 4096
